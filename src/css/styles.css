@@ -56,7 +56,7 @@ li {
 
 .dashboard_link:hover {
   color: white;
-  background-color: #460570;
+  background-color: #436CDF;
   width: 90%;
   border-radius: 10px;
 }
@@ -72,16 +72,16 @@ section {
   padding: 0 50px;
   height: 100px;
   width: 100%;
-  background: linear-gradient(0deg, #500680, #500680);
+  background: #436CDF;
   color: white;
   border-bottom: 1px solid gray;
 }
 
 button {
-  border: 1px solid  #460570;
+  border: 1px solid  #436CDF;
   border-radius: 5px;
   padding: 10px;
-  background-color:  #460570;
+  background-color:  #436CDF;
   color: white;
   font-size: 12px;
   margin-right: 20px;
@@ -261,8 +261,8 @@ select {
 
 .close_button {
   background-color: white;
-  border: 1px solid #460570;
-  color: #460570;
+  border: 1px solid #436CDF;
+  color: #436CDF;
   font-weight: 600;
 }
 
